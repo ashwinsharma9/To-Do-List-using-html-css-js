@@ -75,21 +75,3 @@ addButton.addEventListener("click", addTask)
 
 
 
-// function addtask() {
-//     if (textInput.value === "") {
-
-//         alert("Write your task");
-
-//     } else {
-
-//         let inputValue = textInput.value;
-//         let list = document.createElement("li");
-//         list.textContent = inputValue;
-
-//         listOfTasks.appendChild(list);
-
-//         textInput.value = "";
-//     }
-// }
-
-// addButton.addEventListener("click", addtask);
